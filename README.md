@@ -1,3 +1,1 @@
-# Travel-planner
-
-# checking if I can push
+# Travel-plan
